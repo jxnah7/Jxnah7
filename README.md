@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jonahsendejo@gmail.com**
 
-- ⚡ Fun fact **I'm a first gen student excited about learning C;**
+- ⚡ Fun fact **I'm a first gen student excited about learning c:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
