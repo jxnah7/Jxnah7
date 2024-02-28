@@ -1,16 +1,28 @@
-### Hi there 👋
+<div style="text-align:center;">
+  <img src="https://68.media.tumblr.com/12e6842f43f796addda614bf3024cd50/tumblr_ok8hzjjFYO1v7eoizo1_540.gif" alt="MasterHead">
+</div>
 
-<!--
-**jxnah7/Jxnah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Jonah Barrera</h1>
+<h3 align="center">A passionate backend developer from Texas</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1220673/screenshots/13645590/media/da6828d8dfbb606adf810e9338a488ad.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trulyromantics&label=Profile%20views&color=0e75b6&style=flat" alt="trulyromantics" /> </p>
+
+- 🌱 I’m currently learning **C++**
+
+- 💬 Ask me about **Programming in roblox!**
+
+- 📫 How to reach me **jonahsendejo@gmail.com**
+
+- ⚡ Fun fact **I'm a first gen student excited about learning C;**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@trulyromantics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@trulyromantics" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxnah7&show_icons=true&locale=en&layout=compact" alt="jxnah7" /></p>
