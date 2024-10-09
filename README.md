@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Programming in roblox!**
+- 💬 Ask me about **Scripting in Roblox using Luau!**
 
 - 📫 How to reach me **jonahsendejo@gmail.com**
 
