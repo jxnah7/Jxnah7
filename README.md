@@ -7,7 +7,7 @@
 <h3 align="center">An Aspiring Software Engineer from Texas</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/9c/8f/349c8f0432cd0cda8aa32ad72683a0d4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trulyromantics&label=Profile%20views&color=0e75b6&style=flat" alt="trulyromantics" /> </p>
+
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
