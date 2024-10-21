@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trulyromantics&label=Profile%20views&color=0e75b6&style=flat" alt="trulyromantics" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Scripting in Roblox using Luau!**
 
