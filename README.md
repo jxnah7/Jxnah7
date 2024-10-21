@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxnah7&show_icons=true&locale=en&layout=compact" alt="jxnah7" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jxnah7&" alt="jxnah7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxnah7&show_icons=true&locale=en" alt="jxnah7" /></p>
